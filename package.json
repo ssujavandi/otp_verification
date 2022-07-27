@@ -1,0 +1,25 @@
+{
+  "name": "otp_verification",
+  "version": "1.0.0",
+  "description": "sample project where user can create profile, login, send OTP to their phone number and email. There is also Admin user who can block accounts.",
+  "main": "app.js",
+  "scripts": {
+    "test":""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssujavandi/otp_verification.git"
+  },
+  "keywords": [
+    "otp",
+    "verification",
+    "user",
+    "profile"
+  ],
+  "author": "ssujavandi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ssujavandi/otp_verification/issues"
+  },
+  "homepage": "https://github.com/ssujavandi/otp_verification#readme"
+}
